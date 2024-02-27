@@ -4,7 +4,7 @@ title:  "Que comece o jogo!"
 date:   2024-02-23 18:39:21 -0300
 categories: update
 ---
-Bem-vindos e bem-vindas a disciplina de Robótica Médica.
+Bem-vindas e bem-vindos a disciplina de Robótica Médica.
 
 O jogo foi lançado!
 
